@@ -8,7 +8,7 @@ This project started as a temporary mutual aid effort to support each other in t
 
 # For those able to help:
 
-You can send general funds or [look at our current funding requests](#). 
+You can send general funds or [look at our current funding requests](https://docs.google.com/spreadsheets/d/e/2PACX-1vRwpFoQInRskpmi_sZ3ZLqMMnGOsSS10yWlSyu5PqiZk_WNfWRLZWqOOrk_oDkpuwvrvzA0k8IW3t-g/pubhtml?gid=1880056585&single=true). 
 
 Money can be sent via:
 - Venmo: [@slowgerky](https://venmo.com/slowgerky)
