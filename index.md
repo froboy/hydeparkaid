@@ -10,7 +10,9 @@ This project started as a temporary mutual aid effort to support each other in t
 
 You can send general funds or [look at our current funding requests](https://docs.google.com/spreadsheets/d/e/2PACX-1vRwpFoQInRskpmi_sZ3ZLqMMnGOsSS10yWlSyu5PqiZk_WNfWRLZWqOOrk_oDkpuwvrvzA0k8IW3t-g/pubhtml?gid=1880056585&single=true). 
 
-Money can be sent via:
+<script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/hydeparkhelp" style="max-width: 500px; min-width: 250px; max-height:none!important" width="100%"></iframe>
+
+Alternatively, money can be sent via:
 - Venmo: [@slowgerky](https://venmo.com/slowgerky)
 - Zelle: lstaley@gmail.com
 - CashApp: [$slowgerky](https://cash.app/$slowgerky)
